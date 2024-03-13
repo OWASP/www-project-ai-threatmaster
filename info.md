@@ -10,7 +10,7 @@
 
 ### Downloads or Social Links
 * Docker [Image](https://hub.docker.com/r/san3ncrypt3d/ai-threatmaster)
-* [Meetup](https://san3ncrypt3d.com/About/)
+* [Social](https://san3ncrypt3d.com/About/)
 
 ### Code Repository
 * AI-ThreatMaster [repo](https://github.com/san3ncrypt3d/AI-ThreatMaster)
