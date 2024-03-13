@@ -2,8 +2,8 @@
 title: Description
 layout: null
 tab: true
-order: 1
-tags: ai-threatmaster
+order: 2
+tags: threatmaster
 ---
 
 AI-ThreatMaster stands as a solution for integrating security into the early stages of application and system design through threat modeling. It excels in several key areas:
